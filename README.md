@@ -1,7 +1,3 @@
-# Pull_shark
- Pull_shark
- 
- 
 # vue-todo
 
 ## Project setup
